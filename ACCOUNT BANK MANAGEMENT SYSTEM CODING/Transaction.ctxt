@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=account\ amount
+comment1.target=Transaction(BankAccount,\ double)
+comment2.params=
+comment2.target=double\ getAmount()
+comment3.params=
+comment3.target=void\ execute()
+numComments=4

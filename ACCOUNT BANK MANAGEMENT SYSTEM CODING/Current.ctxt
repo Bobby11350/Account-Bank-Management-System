@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Current
+comment1.params=type\ name\ accNum\ balance\ interestRate\ transactionFee
+comment1.target=Current(java.lang.String,\ java.lang.String,\ long,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ updateBalance()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
